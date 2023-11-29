@@ -1,4 +1,3 @@
-Absolutely! Here's a basic README template for your Pascal's Triangle challenge:
 
 ```markdown
 # Pascal's Triangle Challenge
@@ -48,7 +47,5 @@ If you'd like to contribute to this repository, feel free to fork it, create a n
 
 ---
 
-© 2023 YourName. All Rights Reserved.
+© 2023otis-ke. All Rights Reserved.
 ```
-
-You can update the file names, descriptions, usage instructions, and references as per your actual implementation or additional details you'd like to provide!
