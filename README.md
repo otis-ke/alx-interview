@@ -1,1 +1,1 @@
-cnbnhxf # alx-interview
+# alx-interview
