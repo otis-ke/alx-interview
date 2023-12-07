@@ -1,4 +1,4 @@
-# pascal triangle 
+# Pascal triangle 
 ```markdown
 # Pascal's Triangle Challenge
 
