@@ -1,5 +1,4 @@
 # alx-interview
 
 
-leet we code :wink:   
-yes
+leet we code :wink:
