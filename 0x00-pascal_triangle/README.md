@@ -1,6 +1,6 @@
 # Pascal Triangle 🔺🔺🔺🔺
 ```markdown
-# Pascal's Triangle Challenge
+# Pascal's Triangle Challenge 
 
 This repository contains code for generating Pascal's Triangle using various programming languages or algorithms.
 
